@@ -1,5 +1,5 @@
 # mern-plaid
-Full-stack banking web app built with Plaid's API and the MERN stack.
+A full-stack banking web app built with the MERN stack and Plaid's API that allows users to easily authenticate and link their bank account. The users can see their statements and add/remove their bank accounts in a secure manner. While building this web app, I leveraged React.JS, Redux.js, Node.JS, MongoDB, and RESTful methods to develop frontend design, client-side validations, proximity lookups, and the API framework. Addressed authentication and security concerns with Passport and JWTs. I performed 100% coverage with unit and integration testing
 
 This project uses the following technologies:
 - React and React Router for the frontend
@@ -9,7 +9,7 @@ This project uses the following technologies:
 - Plaid for bank account linkage and transaction data
 - Passport and JWTs for authentication
 
-Our app will allow users to
+This app will allow users to
 - Register
 - Log in
 - Access protected pages only accessible to logged in users
